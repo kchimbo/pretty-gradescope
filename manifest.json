@@ -4,6 +4,11 @@
     "version": "1.0",
     "manifest_version": 2,
     "description": "Format the Gradescope input as a table",
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
     "content_scripts": [{
         "js": ["content.js"],
         "matches": ["https://www.gradescope.com/courses/*"]
