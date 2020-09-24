@@ -1,10 +1,10 @@
 # Pretty Gradescope
 
-![Pretty Gradescope screenshot](https://kchimbo.b-cdn.net/pretty-gradescope.JPG);
+![Pretty Gradescope screenshot](https://kchimbo.b-cdn.net/pretty-gradescope.JPG)
 
 Gradescope is used in the Georgia Tech OMSCS program to submit the assignments. This extensions parses the JSON output and formats the output as as table. The table contains the client/server output with line breaks.
 
-Inspired on [drharris/pretty-bonnie](https://github.com/drharris/pretty-bonnie)
+Based on [drharris/pretty-bonnie](https://github.com/drharris/pretty-bonnie)
 
 ## Courses Supported/Tested
 
