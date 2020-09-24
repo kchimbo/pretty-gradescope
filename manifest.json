@@ -1,0 +1,15 @@
+{
+    "name": "Pretty Gradescope",
+    "short_name": "Pretty Gradescope",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Format the Gradescope input as a table",
+    "content_scripts": [{
+        "js": ["content.js"],
+        "matches": ["https://www.gradescope.com/courses/*"]
+    }],
+    "permissions": [
+        "https://www.gradescope.com/courses/*"
+    ],
+    "author": "Osamu Fujimoto"
+}
