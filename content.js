@@ -15,7 +15,7 @@ function prettifyGradescope(e) {
     Array.prototype.forEach.call(elements, function(el, i) {
         let output = el.getElementsByTagName('div')[1].getElementsByTagName('pre');
         output = output[0].innerHTML;
-        let index = output.indexOf("Traceback");
+        let index = output.indexOf("Traceback") != -1 ? output.indexOf("Traceback") : output.length;
         let consoleOutput = JSON.parse(output.slice(0, index));
         let traceback = output.slice(index);
         /* create a table */
