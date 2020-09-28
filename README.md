@@ -16,5 +16,9 @@ Based on [drharris/pretty-bonnie](https://github.com/drharris/pretty-bonnie)
 2. Enable **Developer Mode** in Chrome Extenions Tab
 3. Click on **Load unpacked** and select the folder of this repository
 
+or
+
+1. Install [Pretty Gradescope](https://chrome.google.com/webstore/detail/pretty-gradescope/faenabcimbomcnegjiconkdkolhfbpcb?hl=es) Extension.
+
 Icons designed by <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
 
