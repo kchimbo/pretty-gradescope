@@ -1,9 +1,9 @@
 {
     "name": "Pretty Gradescope",
     "short_name": "Pretty Gradescope",
-    "version": "1.0",
+    "version": "1.1",
     "manifest_version": 2,
-    "description": "Format the Gradescope input as a table",
+    "description": "Format Gradescope results",
     "icons": {
         "16": "icon16.png",
         "48": "icon48.png",
